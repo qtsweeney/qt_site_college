@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/quentin_sweeney_drill_fb.jpg"
+background-img: "../img/quentin_sweeney_drill.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "The path to self is through hard work."
+  - text: "I like the gym."
 
 me-img: "/img/jetpacktocat.png"
 
