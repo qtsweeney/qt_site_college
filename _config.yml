@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/quentin_sweeney_drill_fb.jpg"
+background-img: "../img/quentin_sweeney_drill_fb_cropped.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I like the gym."
 
 me-img: "/img/k.png"
-me1-img: "/img/wildcat.png"
+me1-img: "/img/k.png"
 
 ##############################
 # Color the browser elements #
