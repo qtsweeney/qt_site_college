@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Quentin Sweeney</title>
+		<description>A little bit of Quentin Sweeney,  just a bit to make you want to get to know me better.</description>
+		<link>https://qtsweeney.github.io</link>
+		<atom:link href="https://qtsweeney.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome to { Personal } Jekyll Theme!</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/27/welcome.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/27/welcome.html</guid>
+			</item>
+		
+			<item>
+				<title>Initial setup</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/25/initial-setup.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/25/initial-setup.html</guid>
+			</item>
+		
+			<item>
+				<title>Modifying the Header</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/24/intro-layout-tutorial.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/24/intro-layout-tutorial.html</guid>
+			</item>
+		
+			<item>
+				<title>Web app mode</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Mon, 22 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/22/web-app-mode.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/22/web-app-mode.html</guid>
+			</item>
+		
+			<item>
+				<title>Setting up the Blog</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Sat, 20 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/20/blog-tutorial.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/20/blog-tutorial.html</guid>
+			</item>
+		
+			<item>
+				<title>Writing posts</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Fri, 19 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/19/writing-posts.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/19/writing-posts.html</guid>
+			</item>
+		
+			<item>
+				<title>Adding a life event in the Timeline</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Fri, 12 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/12/timeline-tutorial.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/12/timeline-tutorial.html</guid>
+			</item>
+		
+			<item>
+				<title>Modifying the social buttons</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/11/social-buttons-tutorial.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/11/social-buttons-tutorial.html</guid>
+			</item>
+		
+			<item>
+				<title>Modifying the Contact</title>
+				
+				
+					<description></description>
+				
+				<pubDate>Wed, 10 Jun 2015 00:00:00 -0400</pubDate>
+				<link>https://qtsweeney.github.io/2015/06/10/contact-tutorial.html</link>
+				<guid isPermaLink="true">https://qtsweeney.github.io/2015/06/10/contact-tutorial.html</guid>
+			</item>
+		
+	</channel>
+</rss>
