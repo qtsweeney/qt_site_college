@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/qt.jpg"
+background-img: "../img/quentin_sweeney_drill_fb.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The path to self is through hard work."
   - text: "I like the gym."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "http://media.mlive.com/kzgazette/sports_impact/photo/logo---kalamazoo-college-athletics-b29239ca63a324bb.png"
 
 ##############################
 # Color the browser elements #
