@@ -59,6 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I like the gym."
 
 me-img: "/img/k.png"
+me1-img: "/img/wildcat.png"
 
 ##############################
 # Color the browser elements #
