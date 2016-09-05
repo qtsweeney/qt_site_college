@@ -450,8 +450,8 @@ body {
        {% if site.background-img %}
     background: url({{ site.background-img2 }}) no-repeat bottom center scroll;
     {% endif %}
-    -webkit-background-size: contained;
-    -moz-background-size: contained;
-    background-size: contained;
-    -o-background-size: contained;
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    background-size: auto;
+    -o-background-size: auto;
 }
