@@ -112,16 +112,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/wildcat.png"
+    date: "2014 - End of Wayland Wildcat Career"
+    description: "All Conference Middle Linebacker"
+  - image: "/img/k.png"
+    date: "September 2017"
+    description: "Junior Outside Linebacker and Business Major""
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/k.png"
 
 ###########
 # Contact #
