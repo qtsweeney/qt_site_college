@@ -450,7 +450,7 @@ body {
     {% if site.background-img %}
     background: url({{ site.background-img2 }}) no-repeat bottom center scroll;
     {% endif %}
-    background-color: $header-background-color;
+    background-color: $primary-color;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
