@@ -447,11 +447,12 @@ body {
 }
 
 #about {
-       {% if site.background-img %}
+    {% if site.background-img %}
     background: url({{ site.background-img2 }}) no-repeat bottom center scroll;
     {% endif %}
-    -webkit-background-size: auto;
-    -moz-background-size: auto;
-    background-size: auto;
-    -o-background-size: auto;
+    background-color: $header-background-color;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
