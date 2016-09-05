@@ -445,3 +445,9 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
+
+#about {
+       {% if site.background-img %}
+    background: url({{ site.background-img2 }}) no-repeat bottom center scroll;
+    {% endif %}
+}
