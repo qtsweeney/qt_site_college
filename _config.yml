@@ -176,7 +176,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Activity: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
