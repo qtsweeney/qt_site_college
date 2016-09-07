@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.ico"
 
 background-img: "../img/quentin_sweeney_drill_fb_cropped.jpg"
 background-img2: "../img/quentin_sweeney_hololens.jpg"
@@ -58,6 +58,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The path to self is through hard work."
   - text: "I like the gym."
+  - text: "WTF?"
 
 me-img: "/img/k.png"
 me1-img: "/img/k.png"
