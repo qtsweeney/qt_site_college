@@ -140,7 +140,7 @@ email: "quentin.sweeney14@kzoo.edu"
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Smile, we are blessed. Smiling is a gift, and it should be given to everybody. Unfortunately, others do not have the same opportunity as other people. I smile because I am beyond blessed on what this world has given to me, and i am looking forward to give back to this new day and age society."
 
-author_blurb_image: "http://www.quentin-sweeney.com/img/slider-images/blessed.jpg"
+author_blurb_image: "/img/qt.jpg"
 
 ##################
 # Social Buttons #
@@ -150,9 +150,9 @@ social:
   - title: "facebook"
     url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/qtsweeney"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/qtsweeney"
 
 
 ############
