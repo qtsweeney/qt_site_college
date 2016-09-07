@@ -138,8 +138,9 @@ email: "quentin.sweeney14@kzoo.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Smile, we are blessed. Smiling is a gift, and it should be given to everybody. Unfortunately, others do not have the same opportunity as other people. I smile because I am beyond blessed on what this world has given to me, and i am looking forward to give back to this new day and age society."
+
+author_blurb_image: "http://www.quentin-sweeney.com/img/slider-images/blessed.jpg"
 
 ##################
 # Social Buttons #
